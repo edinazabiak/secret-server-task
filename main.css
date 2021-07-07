@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+header {
+    background-color: rgb(157, 176, 216);
+    padding: 3rem 0;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+    text-transform: uppercase;
+}
+
+section {
+    margin: 2rem 0;
+}
+
+.secret-header{
+    text-align: center;
+    background: rgb(157, 176, 216);
+    padding: 8px;
+    color: white;
+}
+
+.secret-body {
+    padding: 1rem .3rem;
+    border: 5px solid rgb(157, 176, 216);
+}
+
+.secret-footer {
+    padding: 5px;
+    background: rgb(157, 176, 216);
+    color: white;
+    text-align: right;
+    font-size: .8rem;
+}
